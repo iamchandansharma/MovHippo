@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovHippo</string>
+    <string name="overview">Overview</string>
+    <string name="share">Share</string>
+    <string name="pref_sort_label">Sort By</string>
+    <string name="pref_sort_key">sort</string>
+    <string name="pref_sort_popular">popular</string>
+    <string name="pref_sort_popular_label">Popular</string>
+    <string name="pref_sort_top_rated_label">Top Rated</string>
+    <string name="pref_sort_popular_value">popular</string>
+    <string name="pref_sort_top_rated_value">top_rated</string>
+    <string name="no_internet_connection">No Internet Connection Available</string>
+    <string name="continue_reading">Continue Reading...</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Language</string>
+    <string name="popularity">Popularity</string>
+    <string name="username">Username</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favourite">Favourite</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="movie_added_favourite">Movie Added to Favorite</string>
+    <string name="movie_removed_favourite">Movie Removed from Favorite</string>
+</resources>
