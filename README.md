@@ -3,7 +3,7 @@
 MovHippo is an Android Application which gives all Popular and Top rated Movie's information.
 
 ##Demo
-![Demo_GIF](https://drive.google.com/open?id=0B3pstJr49RzNeHZNSi1HX0FJbm8)
+![Demo](https://github.com/CSS08/MovHippo/blob/master/movhippo.gif)
 
 ##Pre-requisites
  * Android SDK v25
