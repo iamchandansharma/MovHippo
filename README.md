@@ -2,8 +2,11 @@
 
 MovHippo is an Android Application which gives all Popular and Top rated Movie's information.
 
-## Demo
-![Demo](https://github.com/CSS08/MovHippo/blob/master/movhippo.gif)
+## ScreenShot of the Application
+<img src="https://github.com/CSS08/MovHippo/blob/master/App%20Arts/screenshot_1.png" width="40%" vspace="20" hspace="20"><img src="https://github.com/CSS08/MovHippo/blob/master/App%20Arts/screenshot_2.png" width="40%" vspace="20" hspace="20">
+<img src="https://github.com/CSS08/MovHippo/blob/master/App%20Arts/screenshot_3.png" width="40%" vspace="20" hspace="20"><img src="https://github.com/CSS08/MovHippo/blob/master/App%20Arts/screenshot_4.png" width="40%" vspace="20" hspace="20">
+<img src="https://github.com/CSS08/MovHippo/blob/master/App%20Arts/screenshot_5.png" width="40%" vspace="20" hspace="20"><img src="https://github.com/CSS08/MovHippo/blob/master/movhippo.gif" width="40%" vspace="20" hspace="20">
+
 
 ## Pre-requisites
  * Android SDK v25
